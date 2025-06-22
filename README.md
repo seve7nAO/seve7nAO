@@ -1,4 +1,5 @@
 # 👋 Olá, sou o Seven!
+  <p> Desenvolvedor Front-End</p>
 
 Seja muito bem-vindo(a) ao meu espaço no GitHub. Aqui compartilho um pouco da minha jornada como desenvolvedor e tudo o que venho aprendendo e criando.
 
