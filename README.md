@@ -35,7 +35,7 @@ Seja muito bem-vindo(a) ao meu espaço no GitHub. Aqui compartilho um pouco da m
 ## 📲 Meus Contatos:
 <div>
   <a href="https://www.instagram.com/
-sev7n.frontendo" target="_blank">
+sev7n.frontend" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
