@@ -34,11 +34,12 @@ Seja muito bem-vindo(a) ao meu espaço no GitHub. Aqui compartilho um pouco da m
 
 ## 📲 Meus Contatos:
 <div>
-  <a href="https://www.instagram.com/seu_usuario" target="_blank">
+  <a href="https://www.instagram.com/
+sev7n.frontendo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://www.linkedin.com/in/seu_usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-pereira-5b42aa361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
