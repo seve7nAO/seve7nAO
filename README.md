@@ -1,60 +1,62 @@
-# 👋 Olá, sou o Seven!
-  <p> Desenvolvedor Front-End</p>
+<p align="center">
+  <img src="./assets/banner.png" alt="Seven Banner" width="100%" />
+</p>
 
-Seja muito bem-vindo(a) ao meu espaço no GitHub. Aqui compartilho um pouco da minha jornada como desenvolvedor e tudo o que venho aprendendo e criando.
-
----
-
-## 🚀 Sobre mim:
-- 🎯 Sempre buscando evolução constante.
-- 💻 Apaixonado por desenvolvimento web.
-- 📚 Amante de novos aprendizados e desafios.
-- 🎨 Criando projetos com foco em design moderno e responsividade.
-- 🙌 Vivendo a programação como ferramenta de transformação.
+<h1 align="center">Seven</h1>
+<p align="center">
+  Front-End Developer • Building the Future
+</p>
 
 ---
 
-## 💻 Tecnologias que já domino:
-<div style="display: inline_block"><br/>
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
+## 🧊 About
+
+Desenvolvedor focado em criar experiências digitais modernas, responsivas e visualmente impactantes.  
+Buscando excelência técnica e crescimento constante.
+
+Transformando código em soluções reais.
 
 ---
 
-## 🛠️ Tecnologias que estou estudando:
-<div style="display: inline_block"><br/>
-  <img align="center" alt="CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
+## ⚙️ Stack Principal
+
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+ <img  height="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</p>
 
 ---
 
-## 📲 Meus Contatos:
-<div>
-  <a href="https://www.instagram.com/
-sev7n.frontend" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
+## 📚 Currently Learning
+
+<p align="center">
   
-  <a href="https://www.linkedin.com/in/joão-pereira-5b42aa361" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.instagram.com/sev7n.frontend">
+    <img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/joão-pereira-5b42aa361">
+    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ✨ Verso do Dia:
-_"Tudo posso naquele que me fortalece."_  
-— Filipenses 4:13
-
----
-
-👀 Obrigado por visitar!  
-📌 Em breve novos projetos 🔥
-
+<p align="center">
+  <i>"Tudo posso naquele que me fortalece." — Filipenses 4:13</i>
+</p>
