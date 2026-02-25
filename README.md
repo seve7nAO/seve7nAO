@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Seven Banner" width="100%" />
+  <img src="transferir(12).jpeg" alt="Seven Banner" width="100%" />
 </p>
 
 <h1 align="center">Seven</h1>
