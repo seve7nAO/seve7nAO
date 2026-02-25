@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.s
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.instagram.com/sev7n.frontend">
+  <a href="https://www.instagram.com/seve7n.dev">
     <img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/joão-pereira-5b42aa361">
