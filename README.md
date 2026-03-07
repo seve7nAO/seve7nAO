@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="snow.mp4" alt="Seven Banner" width="100%" muted />
+<img src="snowy.gif" width="100%" />
 </p>
 
 <h1 align="center">Seven</h1>
