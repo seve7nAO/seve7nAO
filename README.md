@@ -1,29 +1,20 @@
-<p align="center">
-  <img src="snowy.gif" width="100%" />
-</p>
-
 <h1 align="center">João "Seven" Pereira</h1>
 <p align="center">
   Front-End Developer · Co-founder & Co-CEO @ Inovaware
-</p>
-
-<p align="center">
-  <i>Built in Silence. Delivered with Precision.</i>
 </p>
 
 <br/>
 
 ## Sobre mim
 
-Sou desenvolvedor front-end e co-fundador da **Inovaware**, uma software house bootstrapped sediada em Luanda, Angola. Construo interfaces que unem performance técnica e impacto visual — do código à decisão de negócio.
+Desenvolvedor front-end focado em criar interfaces modernas, performáticas e visualmente refinadas. Co-fundei a **Inovaware**, uma software house em Luanda, Angola, onde transformo decisões de produto em código — sempre buscando o equilíbrio entre boa engenharia e impacto real para quem usa.
 
-Trabalho na interseção entre **engenharia e produto**: não escrevo apenas componentes, penso em arquitetura, escalabilidade e no resultado que o código entrega para quem paga por ele. Prefiro entregar resultado a fazer barulho — daí o lema acima.
+Gosto de trabalhar nos detalhes que fazem uma interface parecer viva: animação, motion design e arquitetura limpa por trás de tudo isso.
 
-## O que estou construindo agora
+## Construindo agora
 
-- **Inovaware** — produtos SaaS e sistemas sob medida para empresas em Angola, incluindo um sistema de gestão interno (TechOS) com controle de acesso por perfil.
 - **Palavra Viva** — plataforma bíblica para o público lusófono.
-- Projetos open-source em React (uma lib de animação declarativa sobre GSAP e um conjunto de hooks reutilizáveis).
+- Bibliotecas open-source em React: um wrapper declarativo para GSAP e uma coleção de hooks reutilizáveis.
 
 ## Stack
 
@@ -39,9 +30,6 @@ Trabalho na interseção entre **engenharia e produto**: não escrevo apenas com
 </p>
 
 **Animação & 3D**
-<p>
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>
-</p>
 
 GSAP · Framer Motion · Three.js
 
@@ -53,8 +41,7 @@ GSAP · Framer Motion · Three.js
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </p>
 
-## Aprendendo agora
-
+**Também trabalho com**
 <p>
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
